@@ -2,7 +2,7 @@
 try to learn nodejs
 
 
-### install: 
+# install: 
 ```bash
 install
 ```
@@ -11,9 +11,12 @@ install
 
 # 4. Run development server and open http://localhost:3000
 ```bash
-npm run start:dev or npm run watch
+npm run start:dev 
 ```
-
+or
+```bash
+npm run watch
+```
 # 5. Read the documentation linked below for "Setup and development".
 
 ### Build
