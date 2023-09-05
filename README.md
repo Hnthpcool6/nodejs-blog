@@ -1,10 +1,11 @@
-# nodejs-blog
+### nodejs-blog
 try to learn nodejs
 
-Prerequisites
 
-*install: 
-$ install 
+### install: 
+```bash
+install
+```
 
 ### Development
 
