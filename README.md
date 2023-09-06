@@ -12,7 +12,7 @@ npm i nodemon --save-dev
 
 # Run development server and open http://localhost:3000
 ```bash
-node index.js
+npm start
 ```
 or
 ```bash
