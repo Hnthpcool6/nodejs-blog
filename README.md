@@ -4,7 +4,8 @@ try to learn nodejs
 
 # install: 
 ```bash
-npm install express
+npm i express
+npm i nodemon --save-dev
 ```
 
 ### Development
