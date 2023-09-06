@@ -4,14 +4,14 @@ try to learn nodejs
 
 # install: 
 ```bash
-install
+npm install express
 ```
 
 ### Development
 
 # Run development server and open http://localhost:3000
 ```bash
-npm run start:dev 
+node index.js
 ```
 or
 ```bash
