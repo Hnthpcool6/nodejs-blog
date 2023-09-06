@@ -7,6 +7,7 @@ try to learn nodejs
 npm i express
 npm i nodemon --save-dev
 npm i morgan --save-dev
+npm install express-handlebars
 ```
 
 ### Development
