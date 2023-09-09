@@ -15,7 +15,7 @@ npm install node-sass --save-dev
 
 ### Run development server and open http://localhost:3000
 ```bash
-npm start
+npm run start
 ```
 ### complile scss -> css
 ```bash
