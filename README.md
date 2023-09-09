@@ -17,7 +17,7 @@ npm install node-sass --save-dev
 ```bash
 npm start
 ```
-or
+# complile scss -> css
 ```bash
 npm run watch
 ```
