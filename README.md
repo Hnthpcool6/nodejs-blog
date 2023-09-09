@@ -11,13 +11,13 @@ npm install express-handlebars
 npm install node-sass --save-dev
 ```
 
-### Development
+# Development
 
-# Run development server and open http://localhost:3000
+### Run development server and open http://localhost:3000
 ```bash
 npm start
 ```
-# complile scss -> css
+### complile scss -> css
 ```bash
 npm run watch
 ```
