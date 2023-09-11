@@ -21,7 +21,8 @@ app.get('/', (req, res) => {
   res.render('home');
 });
 app.get('/news', (req, res) => {
-  res.render('mews');
+
+  res.render('news');
 });
 app.get('/search', (req, res) => {
   res.render('search');
