@@ -8,7 +8,7 @@ class SiteController {
 
     // [GET] /search
     search(req, res) {
-        res.send('search');
+        res.render('search');
     }
 }
 
