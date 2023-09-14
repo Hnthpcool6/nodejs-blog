@@ -5,12 +5,15 @@ try to learn nodejs
 # install: 
 ```bash
 npm i express
+npm install express-handlebars
+```
+# install: 
+```bash
 npm i nodemon --save-dev
 npm i morgan --save-dev
-npm install express-handlebars
 npm install node-sass --save-dev
+npm i prettier lint-staged husky --save-dev
 ```
-
 # Development
 
 ### Run development server and open http://localhost:3000
