@@ -34,3 +34,4 @@ npm run build:prod
 And you will see the generated file in `dist` that ready to be served.
 
 ## Features
+![Alt text](image-1.png)
