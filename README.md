@@ -21,12 +21,12 @@ To start the App, run
 ```bash
 npm run start
 ```
-To convert scss to css, run
 ### complile scss -> css
+To convert scss to css, run
 ```bash
 npm run watch
 ```
-### Build
+### Beautiful
 
 To beautiful the code, run
 ```bash
