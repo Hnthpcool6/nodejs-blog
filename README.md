@@ -17,18 +17,20 @@ npm i prettier lint-staged husky --save-dev
 # Development
 
 ### Run development server and open http://localhost:3000
+To start the App, run
 ```bash
 npm run start
 ```
+To convert scss to css, run
 ### complile scss -> css
 ```bash
 npm run watch
 ```
 ### Build
 
-To build the App, run
+To beautiful the code, run
 ```bash
-npm run build:prod
+npm run beautiful
 ```
 
 And you will see the generated file in `dist` that ready to be served.
