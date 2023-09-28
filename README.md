@@ -6,6 +6,7 @@ try to learn nodejs
 ```bash
 npm i express
 npm install express-handlebars
+npm install mongoose
 ```
 # install: 
 ```bash
