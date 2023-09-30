@@ -1,5 +1,8 @@
 ### nodejs-blog
 try to learn nodejs
+- [install env](#install)
+- [install in dev env](#install-save-dev)
+- [Development](#development)
 
 
 # install: 
@@ -8,7 +11,7 @@ npm i express
 npm install express-handlebars
 npm install mongoose
 ```
-# install: 
+# install save dev: 
 ```bash
 npm i nodemon --save-dev
 npm i morgan --save-dev
